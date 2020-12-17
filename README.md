@@ -16,3 +16,4 @@ A tool to program when do you want to shutdown your computer
 ```
  npm run build
 ```
+# You can get the latest release for use [here](https://github.com/DylanAumis/Advanced-Shutdown/releases)
