@@ -1,0 +1,29 @@
+{
+  "name": "AdvancedShutdown",
+  "version": "1.8.0",
+  "description": "Program when your pc will shutdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron-webpack dev",
+    "build": "electron-webpack && electron-builder"
+  },
+  "author": "Dylan Aumis (aumis.dylan@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.11",
+    "electron": "^2.0.2",
+    "electron-builder": "^20.15.1",
+    "electron-webpack": "^2.1.2",
+    "vue": "^2.5.16",
+    "vue-loader": "^15.2.4",
+    "vue-template-compiler": "^2.5.16",
+    "webpack": "^4.12.0"
+  },
+  "dependencies": {
+    "chokidar": "^2.0.3",
+    "node-cmd": "^3.0.0",
+    "source-map-support": "^0.5.6",
+    "vuetify": "^1.0.19"
+  }
+}
