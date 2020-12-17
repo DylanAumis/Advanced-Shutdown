@@ -11,3 +11,8 @@ A tool to program when do you want to shutdown your computer
 ```
  npm start
 ```
+## You can build it with
+
+```
+ npm run build
+```
