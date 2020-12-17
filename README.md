@@ -1,9 +1,13 @@
+   ![alt text](https://github.com/DylanAumis/Advanced-Shutdown/blob/main/build/icon.ico?raw=true) 
 # Advanced-Shutdown
 
 A tool to program when do you want to shutdown your computer
 
-# To install depedencies
-$ npm install
-
-# To start the program
-$ npm start
+## To install depedencies
+```
+ npm install
+```
+## To start the program
+```
+ npm start
+```
